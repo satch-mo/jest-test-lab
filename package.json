@@ -12,7 +12,23 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "jest",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMountain-QA/wanted-queries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMountain-QA/wanted-queries/issues"
+  },
+  "homepage": "https://github.com/DevMountain-QA/wanted-queries#readme"
 }
